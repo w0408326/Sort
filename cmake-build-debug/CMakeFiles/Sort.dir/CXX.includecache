@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/leffg/CLionProjects/Sort/array_populator.h
+stdlib.h
+-
+
+/cygdrive/c/Users/leffg/CLionProjects/Sort/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+sort.h
+/cygdrive/c/Users/leffg/CLionProjects/Sort/sort.h
+array_populator.h
+/cygdrive/c/Users/leffg/CLionProjects/Sort/array_populator.h
+
+/cygdrive/c/Users/leffg/CLionProjects/Sort/sort.cpp
+sort.h
+/cygdrive/c/Users/leffg/CLionProjects/Sort/sort.h
+
+/cygdrive/c/Users/leffg/CLionProjects/Sort/sort.h
+string
+-
+array
+-
+iostream
+/cygdrive/c/Users/leffg/CLionProjects/Sort/iostream
+fstream
+/cygdrive/c/Users/leffg/CLionProjects/Sort/fstream
+chrono
+-
+

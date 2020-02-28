@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/Sort.dir/main.cpp.o CMakeFiles/Sort.dir/sort.cpp.o CMakeFiles/Sort.dir/array_populator.cpp.o  -o Sort.exe -Wl,--out-implib,libSort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
